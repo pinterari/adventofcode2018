@@ -1,5 +1,5 @@
 # Advent of Code 2018
-[Advent of Code 2018](https://adventofcode.com/2018)
+Trying to save Christmas in [Advent of Code 2018](https://adventofcode.com/2018), mostly with Java and JavaScript.
 
 * Day 1 - Solved on 2018/12/01
 * Day 2
