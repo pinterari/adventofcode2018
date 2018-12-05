@@ -5,7 +5,7 @@ Trying to save Christmas in [Advent of Code 2018](https://adventofcode.com/2018)
 * Day 2 - Solved on 2018/12/02 (JS)
 * Day 3 - Solved on 2018/12/03 (JS)
 * Day 4 - Solved on 2018/12/04 (JS)
-* Day 5
+* Day 5 - Solved on 2018/12/05 (JS)
 * Day 6
 * Day 7
 * Day 8
